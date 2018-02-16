@@ -794,8 +794,7 @@
         ctx.textBaseline = 'top';
         ctx.strokeStyle = '#DF5326';
         ctx.strokeText('袁媛', 100, 100);
-        ctx.font = 'bold 80px arial';
-        ctx.fillStyle = 'red';
+        ctx.font = 'bold 80px consolas';
         ctx.fillText('Happy new year', 150, 300);
 
         // clear
